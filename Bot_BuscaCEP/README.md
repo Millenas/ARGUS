@@ -20,7 +20,7 @@ Este projeto é um bot de automação que utiliza a biblioteca **BotCity** para 
 
 ## Pré-requisitos
 
-- Python 3.9 ou superior.
+- Python 3.10 para o bot.
 - Google Sheets API habilitada e credenciais configuradas.
 - Conta no **AntiCaptcha** para resolver captchas.
 - Driver do **Chrome** para automação de navegador.
@@ -96,6 +96,18 @@ Bot_BuscaCEP/
   ├── credenciais.json       # Credenciais do Google Sheets (não incluído)
 
 ```
+
+
+## Links Úteis
+
+- [Documentação BotCity](https://documentation.botcity.dev/) - Guia oficial para automação com BotCity.
+- [Google Sheets API](https://documentation.botcity.dev/plugins/google/credentials/) - Como usar a API do Google Sheets.
+- [Pandas Documentation](https://pandas.pydata.org/docs/) - Referência para manipulação de dados com Pandas.
+- [AntiCaptcha](https://documentation.botcity.dev/plugins/captcha/) - API para resolver captchas automaticamente.
+- [ChromeDriver Downloads](https://googlechromelabs.github.io/chrome-for-testing/#stable) - Baixe o driver para automação no Chrome.
+- [Vídeo Demo](https://youtu.be/UpRES2uQrhc?si=eesT80Bqys5qhOZo) - Assista o vídeo do projeto em execução 
+
+Esses links ajudam a configurar e entender melhor as ferramentas usadas no projeto.
 
 ## Licença
 
